@@ -13,3 +13,8 @@ Suburban cities was consistently above rural cities over the time period. Suburb
 
 ## Summary
 
+- Try to reposition some drivers from Urban areas to Suburban and Rural areas. There were more drivers in the Urban area than rides given and I believe closing that gap would help PyBer work a little more effiently and remove some demand from the other types' drivers.
+
+- Consider making a change to seasonal rides for the rural area. In the second week of Jan, there were only $67.65 worth of fares. With an average fare of $34.62 per ride that means there may have been two rides that week. Depending on the expenses PyBer has there is not much room for making a profit during low volume times.
+
+- To try and increase rides in the Suburban types it may help to offer discounts on fares during certain times of the day. This would be done to incentivize individuals commuting to and from work during the work week.
